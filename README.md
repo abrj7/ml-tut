@@ -1,3 +1,4 @@
+Disclaimer: this was made ages ago for Replit tutorial forums.
 # Machine-Learning-CrashCourse
 A Machine Learning Course to teach you the basics behind Issues with Machine Learning.
 # Machine Learning Course.
